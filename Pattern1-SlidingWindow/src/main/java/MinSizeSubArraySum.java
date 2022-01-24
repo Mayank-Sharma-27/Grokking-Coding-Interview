@@ -32,7 +32,7 @@ public class MinSizeSubArraySum {
             return 0;
         }
 
-        return min;
+         return min;
     }
 
 }
