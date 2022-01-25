@@ -8,7 +8,7 @@ public class MinSizeSubArraySum {
     public static int findMinSubArray(int S, int[] arr) {
         int start = 0;
         int end = 0;
-        
+
         int sum = 0;
         int min = Integer.MAX_VALUE;
 
